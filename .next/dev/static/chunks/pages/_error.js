@@ -1,0 +1,13 @@
+__turbopack_load_page_chunks__("/_error", [
+  "static/chunks/8323f_next_dist_compiled_6122b3b9._.js",
+  "static/chunks/8323f_next_dist_shared_lib_e5ca5db0._.js",
+  "static/chunks/8323f_next_dist_client_d7dc58de._.js",
+  "static/chunks/8323f_next_dist_6320f90b._.js",
+  "static/chunks/8323f_next_error_e2f1d046.js",
+  "static/chunks/[next]_entry_page-loader_ts_d1e56903._.js",
+  "static/chunks/8323f_react-dom_5aa349fd._.js",
+  "static/chunks/8323f_66bc46fb._.js",
+  "static/chunks/[root-of-the-server]__41b12a2d._.js",
+  "static/chunks/Desktop_Akriti Sky Morph_pages__error_2da965e7._.js",
+  "static/chunks/turbopack-Desktop_Akriti Sky Morph_pages__error_642ed586._.js"
+])
