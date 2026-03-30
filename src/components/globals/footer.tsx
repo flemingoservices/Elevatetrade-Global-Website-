@@ -138,6 +138,21 @@ export default function PremiumFooter() {
 
           {/* EMAIL — aligned like phone */}
 
+<a
+            href="mailto:info@elevatetradeglobal.com"
+            className="flex items-center gap-3 text-white/80 mb-3 hover:text-white transition leading-none"
+          >
+            <Mail
+              size={18}
+              className="flex-shrink-0"
+            />
+
+            <span>
+             info@elevatetradeglobal.com
+            </span>
+
+          </a>
+
           <a
             href="mailto:dhanashri@elevatetradeglobal.com"
             className="flex items-center gap-3 text-white/80 mb-3 hover:text-white transition leading-none"
