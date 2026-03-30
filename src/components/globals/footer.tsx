@@ -133,7 +133,7 @@ export default function PremiumFooter() {
         <div>
 
           <h3 className="font-semibold mb-4">
-            Contact
+            Contact Us
           </h3>
 
           {/* EMAIL — aligned like phone */}
