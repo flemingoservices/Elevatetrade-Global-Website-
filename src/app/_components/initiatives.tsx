@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 import { ArrowLeft, ArrowRight, Plus } from "lucide-react";
 
 const services = [
-  { title: "Sales", image: "/sales.jpg" },
+  { title: "Sales", image: "/Sales.jpg" },
   { title: "Sourcing", image: "/sourcing.jpg" },
   { title: "Operations", image: "/operation.jpg" },
   { title: "Logistics", image: "/logistics.webp" },
