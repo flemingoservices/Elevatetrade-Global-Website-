@@ -352,7 +352,7 @@ function PremiumAgriCarousel() {
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "flex gap-8",
                     children: products.map((product, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: " min-w-[260px] bg-white rounded-2xl shadow-lg hover:shadow-2xl transition-all duration-300 border border-gray-100 group ",
+                            className: "   min-w-[260px]   bg-white   rounded-2xl   shadow-lg   hover:shadow-2xl   transition-all   duration-300   border   border-gray-100   group   ",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "relative h-48 overflow-hidden rounded-t-2xl",
@@ -360,7 +360,7 @@ function PremiumAgriCarousel() {
                                         src: product.image,
                                         alt: product.name,
                                         fill: true,
-                                        className: " object-cover group-hover:scale-110 transition-transform duration-500 ",
+                                        className: "   object-cover   group-hover:scale-110   transition-transform   duration-500   ",
                                         sizes: "260px"
                                     }, void 0, false, {
                                         fileName: "[project]/Desktop/Elevatetrade Global/src/app/_components/carousel.tsx",
@@ -384,7 +384,7 @@ function PremiumAgriCarousel() {
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                            className: " inline-block mt-3 px-4 py-1 text-sm rounded-full bg-[#0B5D4B] text-white ",
+                                            className: "   inline-block   mt-3   px-4   py-1   text-sm   rounded-full   bg-[#0B5D4B]   text-white   ",
                                             children: product.category
                                         }, void 0, false, {
                                             fileName: "[project]/Desktop/Elevatetrade Global/src/app/_components/carousel.tsx",
@@ -814,9 +814,9 @@ const futureCountries = [
 /* ================= CARD COMPONENT ================= */ function CountryCard({ country }) {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-            className: " rounded-2xl p-[2px] bg-gradient-to-r from-[#0b5d4b] via-green-500 to-[#0b5d4b] shadow-md ",
+            className: "   rounded-2xl   p-[2px]   bg-gradient-to-r   from-[#0b5d4b]   via-green-500   to-[#0b5d4b]   shadow-md   ",
             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: " bg-white rounded-2xl overflow-hidden border border-gray-200 shadow-sm transition-all duration-300 hover:shadow-lg hover:-translate-y-1 ",
+                className: "   bg-white   rounded-2xl   overflow-hidden   border border-gray-200   shadow-sm   transition-all   duration-300   hover:shadow-lg   hover:-translate-y-1   ",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "relative h-[170px] flex items-center justify-center p-6 bg-gray-50",
@@ -1342,7 +1342,7 @@ function AkritiUltraPremiumCarousel() {
                                 className: "flex items-center gap-4 mt-12 group",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: " w-14 h-14 rounded-full bg-[#0b5d4b] text-white flex items-center justify-center shadow-xl transition-all duration-300   ",
+                                        className: "   w-14 h-14   rounded-full   bg-[#0b5d4b]   text-white   flex items-center   justify-center   shadow-xl   transition-all duration-300         ",
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$plus$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Plus$3e$__["Plus"], {}, void 0, false, {
                                             fileName: "[project]/Desktop/Elevatetrade Global/src/app/_components/initiatives.tsx",
                                             lineNumber: 86,
@@ -1381,7 +1381,7 @@ function AkritiUltraPremiumCarousel() {
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                         onClick: prevSlide,
-                                        className: " w-12 h-12 rounded-full border border-[#0b5d4b]/30 text-[#0b5d4b] flex items-center justify-center bg-white shadow-md    transition-all duration-300 ",
+                                        className: "   w-12 h-12   rounded-full   border border-[#0b5d4b]/30   text-[#0b5d4b]   flex items-center   justify-center   bg-white   shadow-md            transition-all duration-300   ",
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$arrow$2d$left$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__ArrowLeft$3e$__["ArrowLeft"], {
                                             size: 18
                                         }, void 0, false, {
@@ -1396,7 +1396,7 @@ function AkritiUltraPremiumCarousel() {
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                         onClick: nextSlide,
-                                        className: " w-12 h-12 rounded-full border border-[#0b5d4b]/30 text-[#0b5d4b] flex items-center justify-center bg-white shadow-md    transition-all duration-300 ",
+                                        className: "   w-12 h-12   rounded-full   border border-[#0b5d4b]/30   text-[#0b5d4b]   flex items-center   justify-center   bg-white   shadow-md            transition-all duration-300   ",
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$arrow$2d$right$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__ArrowRight$3e$__["ArrowRight"], {
                                             size: 18
                                         }, void 0, false, {
@@ -1433,16 +1433,16 @@ function AkritiUltraPremiumCarousel() {
                                             className: "min-w-[280px] group",
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                    className: " relative rounded-2xl p-[1px] bg-gradient-to-b from-[#0b5d4b]/40 to-transparent transition duration-500   ",
+                                                    className: "   relative   rounded-2xl   p-[1px]   bg-gradient-to-b   from-[#0b5d4b]/40   to-transparent   transition duration-500         ",
                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                        className: " relative bg-white rounded-2xl overflow-hidden shadow-lg transition-all duration-500  ",
+                                                        className: "   relative   bg-white   rounded-2xl   overflow-hidden   shadow-lg   transition-all duration-500      ",
                                                         children: [
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                                                 src: item.image,
                                                                 alt: item.title,
                                                                 width: 280,
                                                                 height: 360,
-                                                                className: " object-cover w-[280px] h-[360px] transition duration-700  ",
+                                                                className: "   object-cover   w-[280px]   h-[360px]   transition duration-700      ",
                                                                 priority: true
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/Elevatetrade Global/src/app/_components/initiatives.tsx",
@@ -1450,7 +1450,7 @@ function AkritiUltraPremiumCarousel() {
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                className: " absolute inset-0 bg-gradient-to-t from-[#0b5d4b]/80 to-transparent opacity-0  transition duration-500 flex flex-col justify-end p-6 ",
+                                                                className: "   absolute inset-0   bg-gradient-to-t   from-[#0b5d4b]/80   to-transparent   opacity-0      transition duration-500   flex flex-col justify-end   p-6   ",
                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                     className: "flex items-center justify-between",
                                                                     children: [
@@ -1463,7 +1463,7 @@ function AkritiUltraPremiumCarousel() {
                                                                             columnNumber: 27
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                            className: " w-10 h-10 rounded-full bg-white text-[#0b5d4b] flex items-center justify-center transition duration-300  ",
+                                                                            className: "   w-10 h-10   rounded-full   bg-white   text-[#0b5d4b]   flex items-center   justify-center   transition   duration-300      ",
                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$plus$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Plus$3e$__["Plus"], {
                                                                                 size: 16
                                                                             }, void 0, false, {
@@ -1499,7 +1499,7 @@ function AkritiUltraPremiumCarousel() {
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                    className: " flex items-center gap-2 mt-5 text-[#0b5d4b] font-semibold text-lg transition  ",
+                                                    className: "   flex items-center   gap-2   mt-5   text-[#0b5d4b]   font-semibold   text-lg   transition      ",
                                                     children: [
                                                         item.title,
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1596,7 +1596,7 @@ function PremiumHeroLayout() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: " relative w-full lg:w-[55%] bg-[#0b5d4b] border-[8px] border-white flex flex-col justify-center px-8 lg:px-24 py-20 text-white overflow-hidden ",
+                className: "   relative   w-full   lg:w-[55%]   bg-[#0b5d4b] border-[8px] border-white   flex   flex-col   justify-center   px-8   lg:px-24   py-20   text-white   overflow-hidden   ",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "w-14 h-[3px] bg-white/70 mb-6 rounded-full"
@@ -1606,7 +1606,7 @@ function PremiumHeroLayout() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                        className: " text-sm tracking-[0.2em] uppercase text-white/80 mb-4 ",
+                        className: "   text-sm   tracking-[0.2em]   uppercase   text-white/80   mb-4   ",
                         children: "Global Business"
                     }, void 0, false, {
                         fileName: "[project]/Desktop/Elevatetrade Global/src/app/_components/products.tsx",
@@ -1614,7 +1614,7 @@ function PremiumHeroLayout() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                        className: " text-3xl lg:text-4xl font-semibold leading-tight mb-6 ",
+                        className: "   text-3xl   lg:text-4xl   font-semibold   leading-tight   mb-6   ",
                         children: "International Trader"
                     }, void 0, false, {
                         fileName: "[project]/Desktop/Elevatetrade Global/src/app/_components/products.tsx",
@@ -1622,7 +1622,7 @@ function PremiumHeroLayout() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                        className: " text-white/80 leading-relaxed text-base max-w-md mb-10 ",
+                        className: "   text-white/80   leading-relaxed   text-base   max-w-md   mb-10   ",
                         children: "Delivering trusted global trade solutions with operational excellence, transparency, and scalable logistics for modern enterprises."
                     }, void 0, false, {
                         fileName: "[project]/Desktop/Elevatetrade Global/src/app/_components/products.tsx",
@@ -1630,7 +1630,7 @@ function PremiumHeroLayout() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                        className: " relative w-fit px-8 py-3 rounded-full bg-white text-[#0b5d4b] font-semibold transition-all duration-300 hover:-translate-y-1 hover:shadow-xl ",
+                        className: "   relative   w-fit   px-8   py-3   rounded-full   bg-white   text-[#0b5d4b]   font-semibold   transition-all   duration-300   hover:-translate-y-1   hover:shadow-xl   ",
                         children: "Explore Services"
                     }, void 0, false, {
                         fileName: "[project]/Desktop/Elevatetrade Global/src/app/_components/products.tsx",
@@ -1668,7 +1668,7 @@ function PremiumJoinTeamSection() {
         className: "w-full min-h-screen flex flex-col lg:flex-row overflow-hidden",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: " relative w-full lg:w-[55%] bg-[#0b5d4b] border-[8px] border-white flex flex-col justify-center px-8 lg:px-24 py-20 text-white overflow-hidden ",
+                className: "   relative   w-full   lg:w-[55%]   bg-[#0b5d4b] border-[8px] border-white   flex   flex-col   justify-center   px-8   lg:px-24   py-20   text-white   overflow-hidden   ",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "w-14 h-[3px] bg-white/70 mb-6 rounded-full"
@@ -1678,7 +1678,7 @@ function PremiumJoinTeamSection() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                        className: " text-sm text-[#ffffff] max-w-xs mb-14 leading-relaxed tracking-wide ",
+                        className: "   text-sm   text-[#ffffff]   max-w-xs   mb-14   leading-relaxed   tracking-wide   ",
                         children: "We are always looking for talented people that share our values."
                     }, void 0, false, {
                         fileName: "[project]/Desktop/Elevatetrade Global/src/app/_components/industries.tsx",
@@ -1686,7 +1686,7 @@ function PremiumJoinTeamSection() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                        className: " text-4xl lg:text-6xl font-bold text-[#ffffff] mb-10 tracking-tight leading-[1.1] ",
+                        className: "   text-4xl   lg:text-6xl   font-bold   text-[#ffffff]   mb-10   tracking-tight   leading-[1.1]   ",
                         children: "Join our team"
                     }, void 0, false, {
                         fileName: "[project]/Desktop/Elevatetrade Global/src/app/_components/industries.tsx",
@@ -1694,7 +1694,7 @@ function PremiumJoinTeamSection() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                        className: " relative w-fit px-8 py-3 rounded-full bg-white text-[#0b5d4b] font-semibold transition-all duration-300 hover:-translate-y-1 hover:shadow-xl ",
+                        className: "   relative   w-fit   px-8   py-3   rounded-full   bg-white   text-[#0b5d4b]   font-semibold   transition-all   duration-300   hover:-translate-y-1   hover:shadow-xl   ",
                         children: "View job openings"
                     }, void 0, false, {
                         fileName: "[project]/Desktop/Elevatetrade Global/src/app/_components/industries.tsx",

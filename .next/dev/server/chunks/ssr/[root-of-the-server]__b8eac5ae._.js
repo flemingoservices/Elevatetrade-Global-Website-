@@ -27,7 +27,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Glo
 function PremiumFooter() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("footer", {
         id: "footer",
-        className: " bg-[#0b5d4b] text-white w-full py-16 ",
+        className: "   bg-[#0b5d4b]   text-white   w-full   py-16   ",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "max-w-7xl mx-auto px-8 py-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12",
@@ -484,11 +484,11 @@ const Navbar = ()=>{
             },
             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                 onClick: ()=>sectionId && scrollToSection(sectionId),
-                className: " relative text-[13px] tracking-[2px] font-medium uppercase group bg-transparent ",
+                className: "   relative   text-[13px]   tracking-[2px]   font-medium   uppercase   group   bg-transparent   ",
                 children: [
                     label,
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                        className: " absolute left-0 -bottom-1 h-[1.5px] w-0 bg-[#fbc02d] transition-all duration-300 group-hover:w-full "
+                        className: "   absolute   left-0   -bottom-1   h-[1.5px]   w-0   bg-[#fbc02d]   transition-all   duration-300   group-hover:w-full   "
                     }, void 0, false, {
                         fileName: "[project]/Desktop/Elevatetrade Global/src/components/globals/header-nav/index.tsx",
                         lineNumber: 57,
@@ -557,11 +557,11 @@ const Navbar = ()=>{
                             },
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                 href: "mailto:dhanashri@elevatetradeglobal.com",
-                                className: " relative text-[13px] tracking-[2px] font-medium uppercase group ",
+                                className: "   relative   text-[13px]   tracking-[2px]   font-medium   uppercase   group   ",
                                 children: [
                                     "Contact Us",
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Global$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        className: " absolute left-0 -bottom-1 h-[1.5px] w-0 bg-[#fbc02d] transition-all duration-300 group-hover:w-full "
+                                        className: "   absolute   left-0   -bottom-1   h-[1.5px]   w-0   bg-[#fbc02d]   transition-all   duration-300   group-hover:w-full   "
                                     }, void 0, false, {
                                         fileName: "[project]/Desktop/Elevatetrade Global/src/components/globals/header-nav/index.tsx",
                                         lineNumber: 123,
