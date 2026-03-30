@@ -1,0 +1,74 @@
+/* Section Styling */
+
+.sectionSimple {
+  position: relative;
+  background: #ffffff;
+  padding: 80px 24px;
+}
+
+/* Subtle Olive Accent Line */
+
+.sectionSimple::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  width: 100%;
+  height: 4px;
+
+  background: linear-gradient(
+    90deg,
+    #80994a,
+    rgba(128, 153, 74, 0.4),
+    #80994a
+  );
+}
+
+/* Title */
+
+.sectionTitle {
+  font-size: 36px;
+  font-weight: 700;
+  color: #2f3e1f;
+  text-align: center;
+  margin-bottom: 16px;
+}
+
+/* Description */
+
+.sectionText {
+  max-width: 720px;
+  margin: auto;
+  text-align: center;
+
+  color: #6b7280;
+  line-height: 1.7;
+  font-size: 18px;
+}
+
+/* Button */
+
+.primaryButton {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  margin-top: 28px;
+  padding: 14px 28px;
+
+  border-radius: 999px;
+
+  background: #80994a;
+  color: #ffffff;
+
+  font-weight: 600;
+  letter-spacing: 0.5px;
+
+  transition: all 0.3s ease;
+}
+
+.primaryButton:hover {
+  background: #6f8740;
+  transform: translateY(-2px);
+}
