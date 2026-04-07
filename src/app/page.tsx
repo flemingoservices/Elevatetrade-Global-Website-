@@ -1,12 +1,12 @@
 import { Metadata } from "next";
 import Hero from "./_components/hero";
 import Carousel from "./_components/carousel";
-import OurExpertise from "./_components/our-expertise";
+import AboutElevatetrade from "./_components/about-elevatetrade";
 import TrustUs from "./_components/trust-us";
 import OurServices from "./_components/our-services";
-import Initiatives from "./_components/initiatives";
+import Whatwedo  from "./_components/What we do ";
 import Products from "./_components/products";
-import IndustryExpertise from "./_components/industries";
+import Joinourteam  from "./_components/Join our team ";
 
 export const metadata: Metadata = {
   title: 'Elevatetrade Global ',
@@ -18,12 +18,12 @@ export default function Home() {
     <>
       <Hero />
        <Carousel /> 
-      <OurExpertise />
+    < AboutElevatetrade />
       <TrustUs />
       <OurServices />
-      <Initiatives />
+      <Whatwedo  />
       <Products />
-      <IndustryExpertise />
+      <Joinourteam />
      
     </>
   );

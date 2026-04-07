@@ -1228,7 +1228,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$Elevatetrade__Glo
 const services = [
     {
         title: "Sales",
-        image: "/sales.jpg"
+        image: "/Sales.jpg"
     },
     {
         title: "Sourcing",

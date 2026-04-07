@@ -2,20 +2,20 @@
   "devFiles": [],
   "ampDevFiles": [],
   "polyfillFiles": [
-    "static/chunks/8323f_next_dist_build_polyfills_polyfill-nomodule.js"
+    "static/chunks/1876b_next_dist_build_polyfills_polyfill-nomodule.js"
   ],
   "lowPriorityFiles": [],
   "rootMainFiles": [
-    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_c0245b71._.js",
-    "static/chunks/8323f_next_dist_compiled_react-dom_a2b61998._.js",
-    "static/chunks/8323f_next_dist_compiled_react-server-dom-turbopack_6850a7b2._.js",
-    "static/chunks/8323f_next_dist_compiled_next-devtools_index_01ead5ed.js",
-    "static/chunks/8323f_next_dist_compiled_d44682de._.js",
-    "static/chunks/8323f_next_dist_client_c473a97d._.js",
-    "static/chunks/8323f_next_dist_d5bf2e4f._.js",
-    "static/chunks/8323f_@swc_helpers_cjs_70e8a4e0._.js",
-    "static/chunks/Desktop_Akriti Sky Morph_a0ff3932._.js",
-    "static/chunks/turbopack-Desktop_Akriti Sky Morph_10b349b0._.js"
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_db48d98c._.js",
+    "static/chunks/1876b_next_dist_compiled_react-dom_60436b0a._.js",
+    "static/chunks/1876b_next_dist_compiled_react-server-dom-turbopack_a9b543f5._.js",
+    "static/chunks/1876b_next_dist_compiled_next-devtools_index_77a7f9dd.js",
+    "static/chunks/1876b_next_dist_compiled_efe7b887._.js",
+    "static/chunks/1876b_next_dist_client_7d6cab01._.js",
+    "static/chunks/1876b_next_dist_071d47d3._.js",
+    "static/chunks/1876b_@swc_helpers_cjs_63ede7a6._.js",
+    "static/chunks/Desktop_Elevatetrade Global_a0ff3932._.js",
+    "static/chunks/turbopack-Desktop_Elevatetrade Global_94825fd9._.js"
   ],
   "pages": {},
   "ampFirstPages": []

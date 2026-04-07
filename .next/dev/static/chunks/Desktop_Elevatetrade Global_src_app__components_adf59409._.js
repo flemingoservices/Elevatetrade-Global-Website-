@@ -1284,7 +1284,7 @@ var _s = __turbopack_context__.k.signature();
 const services = [
     {
         title: "Sales",
-        image: "/sales.jpg"
+        image: "/Sales.jpg"
     },
     {
         title: "Sourcing",

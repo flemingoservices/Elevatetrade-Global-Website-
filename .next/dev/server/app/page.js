@@ -1,6 +1,6 @@
 var R=require("../chunks/ssr/[turbopack]_runtime.js")("server/app/page.js")
 R.c("server/chunks/ssr/1876b_next_dist_5e96302f._.js")
-R.c("server/chunks/ssr/[root-of-the-server]__e72f6083._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__cadc3ed4._.js")
 R.c("server/chunks/ssr/1876b_38a6e6e8._.js")
 R.c("server/chunks/ssr/[root-of-the-server]__e8a2741f._.js")
 R.c("server/chunks/ssr/Desktop_Elevatetrade Global_src_app_30789fad._.js")
