@@ -6,7 +6,7 @@
   "static/chunks/1876b_react-icons_lib_9391b0aa._.js",
   "static/chunks/1876b_motion-dom_dist_es_4d556645._.js",
   "static/chunks/1876b_framer-motion_dist_es_e5e950f8._.js",
-  "static/chunks/1876b_79eddb63._.js",
+  "static/chunks/1876b_5c5f0d1a._.js",
   "static/chunks/Desktop_Elevatetrade Global_src_components_globals_0d6cafcf._.js"
 ],
     source: "dynamic"

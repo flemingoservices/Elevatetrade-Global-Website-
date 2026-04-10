@@ -199,7 +199,7 @@ export default function PremiumFooter() {
             </a>
 
             <a
-              href="#"
+              href="https://www.instagram.com/elevatetradeglobal/?hl=en"
               target="_blank"
               rel="noopener noreferrer"
               className="w-10 h-10 flex items-center justify-center rounded-full bg-white/10 hover:bg-[#E4405F] transition"
@@ -207,14 +207,14 @@ export default function PremiumFooter() {
               <Instagram size={18} />
             </a>
 
-            <a
+            {/* <a
               href="#"
               target="_blank"
               rel="noopener noreferrer"
               className="w-10 h-10 flex items-center justify-center rounded-full bg-white/10 hover:bg-[#1877F2] transition"
             >
               <Facebook size={18} />
-            </a>
+            </a> */}
 
             <a
               href="mailto:dhanashri@elevatetradeglobal.com"
@@ -224,7 +224,7 @@ export default function PremiumFooter() {
             </a>
 
             <a
-              href="#"
+              href="https://www.linkedin.com/company/elevatetradeglobol/about/?viewAsMember=true"
               target="_blank"
               rel="noopener noreferrer"
               className="w-10 h-10 flex items-center justify-center rounded-full bg-white/10 hover:bg-[#0A66C2] transition"
